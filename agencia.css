@@ -713,9 +713,9 @@ body {
     gap: 8px;
     text-align: center;
   }
-}
 .logo-img {
-  height: 40px;
+  height: 36px;
   width: auto;
   display: block;
+  mix-blend-mode: multiply;
 }
