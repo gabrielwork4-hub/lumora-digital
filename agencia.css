@@ -285,21 +285,6 @@ body {
 }
 
 /* ========================
-   SEÇÕES TEMPORÁRIAS
-======================== */
-#portfolio,
-#depoimentos,
-#contato {
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 2rem;
-  font-weight: 700;
-  color: rgba(255, 255, 255, 0.15);
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
-}
-/* ========================
    PORTFÓLIO
 ======================== */
 #portfolio {
